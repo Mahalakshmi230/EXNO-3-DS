@@ -5,9 +5,13 @@ To read the given data and perform Feature Encoding and Transformation process a
 
 # ALGORITHM:
 STEP 1:Read the given Data.
+
 STEP 2:Clean the Data Set using Data Cleaning Process.
+
 STEP 3:Apply Feature Encoding for the feature in the data set.
+
 STEP 4:Apply Feature Transformation for the feature in the data set.
+
 STEP 5:Save the data to the file.
 
 # FEATURE ENCODING:
@@ -33,7 +37,8 @@ We use this categorical data encoding technique when the features are nominal(do
 # CODING AND OUTPUT:
 
 <H4> NAME: MAHALAKSHMI R</H4>
-<H4># REG NO: 212223230116</H4>
+<H4> REG NO: 212223230116</H4>
+
 ![Screenshot 2025-04-09 172946](https://github.com/user-attachments/assets/83b55179-8ca8-4083-9997-600ee820f49b)
 ![Screenshot 2025-04-09 172956](https://github.com/user-attachments/assets/d0a54c11-1ae0-4f3d-99ed-c5ff7ea43638)
 ![Screenshot 2025-04-09 173020](https://github.com/user-attachments/assets/39281cb9-9a6c-49bd-8f7b-953bbef4971a)
